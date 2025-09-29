@@ -130,7 +130,8 @@ Internal CSS adalah cara menuliskan kode CSS di dalam tag <style> pada bagian se
 
 # 5. membuat CSS Selector
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/587c8a11-bacd-4bd1-9fd1-02da716033e3" />
+<img width="1862" height="1025" alt="image" src="https://github.com/user-attachments/assets/10dfa230-20e7-4c03-a24b-59e0595e56c9" />
+
 
 
 Fungsi utama dari CSS Selector adalah menemukan dan memilih (menargetkan) elemen HTML yang ingin Anda beri gaya. Dengan kata lain, Selector memberi tahu browser elemen mana yang harus diterapkan oleh sekumpulan aturan CSS tertentu.
